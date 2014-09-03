@@ -52,7 +52,7 @@
             <li class="active"><a href="#">Home</a></li>
             <li><a href="#contact">Info</a></li>
             <li><a href="#contact">Contact us</a></li>
-          </ul>
+          </ul> 
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
     </div><!-- /.navbar -->
